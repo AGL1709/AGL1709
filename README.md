@@ -4,14 +4,7 @@
 
 <p align="left">Hi! My name is Alan Gabryel and I am a future programmer from Brazil.  <br>I am learning new technologies, exploring programming, and building projects to become a complete developer in the future.</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <h3 align="left">Habilidades</h3>
 
@@ -49,10 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
 
